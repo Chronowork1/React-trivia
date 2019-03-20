@@ -1,16 +1,19 @@
-import React, { Component } from 'react';
+/*import React, { Component } from 'react';
+import {Question} from './Question_text'
+import {Answer} from './Answer';
 // import components
 
 
-class Question extends Component {
+export class Questions extends Component {
   
   render() {
     return (
       <div>
-        Add your QuestionText, Reset Button and AnswerButtons here.  
+        <Question />
+        <Answer />
       </div>
     );
   }
 }
 
-export default Question;
+export default Question;*/

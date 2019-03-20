@@ -1,0 +1,19 @@
+div h1{
+  font-weight: bold;
+  font-family: times;
+}
+
+div p {
+  display: "inline-block";
+  padding: "1em";
+  background-color: "#eee";
+  margin: "0 1em 0 0";
+}
+
+div ul {
+  width: "100%";
+  display: "block";
+  text-Align: "left";
+  float: "left";
+  padding: "2em"; 
+}
